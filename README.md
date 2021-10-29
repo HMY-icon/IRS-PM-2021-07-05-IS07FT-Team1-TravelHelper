@@ -9,12 +9,12 @@
 
 ## SECTION 3: CERDITS / PROJECT CONTRIBUTION
 
-| Official Full  |               |                |                    |
-| Name           | Student ID    | Work Items     | Email              | 
-|----------------|---------------|----------------|--------------------|
-| Liu Ding       |               |                | in progress        | 
-| Zeng Hanyu     |               |                | in progress        | 
-| He Mingyang    | A0231408N     |                | e0703440@u.nus.edu | 
+                                  
+|Offical Full Name     |  Student ID   | Work Items(Who Did that)     | Email(Optional)    | 
+|----------------------|---------------|------------------------------|--------------------|
+| Liu Ding             |               |                              | in progress        | 
+| Zeng Hanyu           |               |                              | in progress        | 
+| He Mingyang          | A0231408N     |                              | e0703440@u.nus.edu | 
 
 
 ## SECTION 4: VIDEO OF SYSTEM MODELLING & USE CASE DEMO
