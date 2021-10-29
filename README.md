@@ -1,5 +1,5 @@
 ## SECTION 1: PROJECT TITLE
-### Travel-Helper: an Intelligent Travel Recommender System
+###  Travel-Helper: an Intelligent Travel Recommender System
 ![](Miscellaneous/profile.png)
 ## SECTION 2: EXECUTIVE SUMMARY / PAPER ABSTRACT
 
