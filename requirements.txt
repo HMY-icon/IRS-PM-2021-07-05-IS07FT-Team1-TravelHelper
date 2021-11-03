@@ -1,0 +1,7 @@
+requests
+pandas
+argparse
+Streamline
+recognizers_number
+recognizers_date_time
+flashgeotext
