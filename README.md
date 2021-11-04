@@ -12,8 +12,8 @@
                                   
 |Offical Full Name     |  Student ID   | Work Items(Who Did that)     | Email(Optional)    | 
 |----------------------|---------------|------------------------------|--------------------|
-| Liu Ding             |               |                              | in progress        | 
-| Zeng Hanyu           |               |                              | in progress        | 
+| Liu Ding             | A0231429J     |                              | e0703461@u.nus.edu | 
+| Zeng Hanyu           | A0231558A     |                              | e0703590@u.nus.edu | 
 | He Mingyang          | A0231408N     |                              | e0703440@u.nus.edu | 
 
 
