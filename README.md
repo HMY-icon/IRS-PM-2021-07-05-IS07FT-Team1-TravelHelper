@@ -33,8 +33,7 @@ In our Travel Helper, there is not only an inference system, but even an NLP mod
 
 ## SECTION 5: USER GUIDE
 
-Refer to appendix <User Guide> in project report at Github Folder: ProjectReport <br>https://github.com/HMY-icon/Travel-Helper/blob/main/ProjectReport/Installation%20%26%20User%20Guide.pdf
-
+Refer to appendix <User Guide> in project report at Github Folder: ProjectReport <br>
 
 ---
 
