@@ -18,7 +18,7 @@ In our Travel Helper, there is not only an inference system, but even an NLP mod
 |Offical Full Name     |  Student ID   | Work Items(Who Did that)     | Email(Optional)    | 
 |----------------------|---------------|------------------------------|--------------------|
 | Liu Ding             | A0231429J     | Flight information recommendation, web design, API integration, report writing, technical video | e0703461@u.nus.edu | 
-| Zeng Hanyu           | A0231558A     |                              | e0703590@u.nus.edu | 
+| Zeng Hanyu           | A0231558A     |longitude and latitude search, attraction recommendation, report writing, business video                              | e0703590@u.nus.edu | 
 | He Mingyang          | A0231408N     | Hotel information recommendation, web modification, report writing, demo video| e0703440@u.nus.edu | 
 
 
